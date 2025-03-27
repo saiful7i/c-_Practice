@@ -1,7 +1,7 @@
 using System;
 
 namespace Program
-//class for cha 
+//class for car 
 {
   class Car
   {
