@@ -1,7 +1,6 @@
 using System;
 
 namespace Application
-//class for car 
 {
  class Person
  {
